@@ -1,0 +1,174 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.navbar{
+    height: 80px;
+    width: 100%;
+    background: linear-gradient(#48649f,#3b5998);
+    border-bottom: 1px solid #253a69;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+   
+
+}
+.logo-text{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: helvetica neue,helvetica,Arial, Helvetica, sans-serif;
+    margin-left: 170px;
+    text-decoration: none;
+}
+.login-form{
+    display:flex;
+    position: absolute;
+    font-family: verdana;
+    left: 58%;
+    top: 15px;
+}
+.login-form .email{
+    padding-left: 10px;
+    font-size: 13px;
+    color: white;
+}
+.login-form .Password{
+    padding-left: 10px;
+    font-size: 13px;
+    color: white;
+    
+}
+.forbt{
+    padding-top: 5px;
+    color: #2c457a;
+}
+.btn1{
+    color: white;
+    height: 20px;
+    width: 50px;
+    font-weight: 600;
+    margin-left: 15px;
+    margin-top: 15px;
+    border-radius: 2px;
+    outline: none;
+    cursor: pointer;
+    background: #2d5bba;
+    border: 1px solid #224285;
+
+}
+section{
+    height: 800px;
+    width: 100%;
+    top: 800px;
+    background: linear-gradient(#fdfdfe,#eff1f6,#e3e6f0,#d6dbeaef);
+    font-family: verdana;
+
+}
+.img1{
+    position: absolute;
+    left: 15%;
+    top: 20%;
+}
+.logo1{
+    font-family: arial;
+    font-size: 25px;
+    margin-left: -35px;
+    margin-top: 30px;
+    font-weight: bold;
+
+}
+.signup{
+    font-family: Arial;
+    position: absolute;
+    left: 57%;
+}
+.hea1{
+    font-size: 40px;
+    margin: 25px 0;
+
+}
+.para1{
+    margin: 15px 0 0px 10px;
+    font-size: 15px;
+    
+}
+.frm1 input{
+    margin-top: 20px;
+    height: 30px;
+    
+    border: 1px solid silver;
+    border-radius: 4px;
+    padding-left: 10px;
+    font-size: 18px;
+   
+}
+.sname {
+    margin-left: 15px;
+    width: 200px;
+}
+.email .pswrd{
+    margin-top: 20px;
+    width: 950px;
+    
+}
+.bday{
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    color: grey;
+}
+.bdaydate{
+    margin-top: 6px;
+}
+.day{
+    height: 20px;
+    
+}
+.month{
+    height: 20px;
+}
+.year{
+    height: 20px;
+}
+.gender{
+    margin-top: 15px;
+    color: grey;
+  
+    font-weight: bold;
+}
+.gndr{
+    margin-bottom: -10px;
+}
+.female{
+    font-size: 15px;
+    
+    
+}
+.sp1{
+    color: #4b74c7;
+}
+.sp2{
+    color: #4b74c7;
+}
+.agmnt{
+    color: gray;
+    margin-top: 15px;
+    font-size: 12px;
+    width: 350px;
+}
+.signup1{
+    margin-top: 20px;
+    height: 35px;
+    width: 160px;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    border: 1 px solid #006117;
+    border-radius: 3px;
+    cursor: pointer;
+    outline: none;
+    background: linear-gradient(#6fad5a,#66a150,#60974c);
+}
